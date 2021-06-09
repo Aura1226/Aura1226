@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Java-blue">
-<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aura1226&layout=compact&theme=tokyonight)](https://github.com/Aura1226/github-readme-stats)
