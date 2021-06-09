@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&hide=contribs,prs)
+![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true)
+
 
 [![donghyun_KIM's github stats](https://github-readme-stats.vercel.app/api?username=?Aura1226&show_icons=true&theme=dark]
 
