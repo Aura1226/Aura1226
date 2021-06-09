@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Boot-blue?style=flat-square&logo=Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring_Boot-blue?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
 
 
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true&theme=tokyonight)
