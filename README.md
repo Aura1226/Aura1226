@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/c9f?style=flat-square&logo=#007396&logoColor=white"/></a>&nbsp 
 
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aura1226&layout=compact&theme=tokyonight)](https://github.com/Aura1226/github-readme-stats)
