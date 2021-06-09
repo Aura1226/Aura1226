@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![donghyun_KIM's github stats](https://github-readme-stats.vercel.app/api?username=?Aura1226&show_icons=true&theme=dark]
+[![donghyun_KIM's github stats](https://github-readme-stats.vercel.app/api?username=?aura1226&show_icons=true&theme=dark]
 
 <!--
 **Aura1226/Aura1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
