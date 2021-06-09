@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring_Boot-blue?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aura1226&layout=compact&theme=tokyonight)](https://github.com/Aura1226/github-readme-stats)
