@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/static/v1?label=<#007396>&message=<Java>&color=<9cf>
+https://img.shields.io/badge/<#007396>-<Java>-<9cf>
 
 ![donghyun_KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura1226&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aura1226&layout=compact&theme=tokyonight)](https://github.com/Aura1226/github-readme-stats)
